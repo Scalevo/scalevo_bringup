@@ -9,6 +9,7 @@ autostart depends on robot_upstart plugin
 Achtung: indingo branch
 
 create install directory in catkin workspace
+
 build workspace
 
     rosrun robot_upstart install scalevo_bringup/launch/scalevo.launch
