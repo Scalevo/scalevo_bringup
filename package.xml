@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<package>
+  <name>scalevo_bringup</name>
+  <version>0.0.1</version>
+  <description>Bring up Ros on Scalevo package</description>
+
+  <author email="rkaeslin@student.ethz.ch">Roman Kaeslin</author>
+<maintainer email="rkaeslin@student.ethz.ch">Roman Kaeslin</maintainer>
+
+  <license>BSD</license>
+
+  <url type="website">http://ros.org/wiki/husky_bringup</url>
+  <url type="bugtracker">https://github.com/husky/husky_robot/issues</url>
+  <url type="repository">https://github.com/husly/husky_robot</url>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <build_depend>roslaunch</build_depend>
+
+  <export>
+  </export>
+</package>

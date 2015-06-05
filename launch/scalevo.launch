@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<launch>
+ <arg name="port" default="44968" />
+ <include file="$(find scalaser)/launch/pointcloud_2.launch"/>
+ <include file="$(find tcp_server)/launch/tcp.launch" />
+ <include file="$(find scalebot)/launch/scalebot.launch" />
+
+ <include file="$(find scadaption)/launch/scadaption.launch" />
+<!-- <include file="$(find scalaser)/launch/angle.launch" /> -->
+
+</launch>
