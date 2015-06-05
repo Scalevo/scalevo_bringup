@@ -6,7 +6,7 @@ autostart depends on robot_upstart plugin
 
     https://github.com/clearpathrobotics/robot_upstart 
 
-Achtung: indingo branch
+Attention: indingo branch
 
 create install directory in catkin workspace
 
