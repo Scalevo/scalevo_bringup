@@ -24,7 +24,7 @@ see console output with
 
     sudo tail /var/log/upstart/scalevo.log -n 30
 
-start & stop service with 
+start & stop service that is called on start up manually with 
 
     sudo service scalevo start
     sudo service scalevo stop
