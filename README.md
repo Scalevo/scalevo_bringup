@@ -29,3 +29,4 @@ start & stop service that is called on start up manually with
     sudo service scalevo start
     sudo service scalevo stop
 
+add your the Launchfile of your program to the file scalevo_bringup/launch/scalevo.launch
